@@ -1,5 +1,0 @@
-Intro to Academy: https://academy.hackthebox.com/achievement/1062810/15
-Web Requests: https://academy.hackthebox.com/achievement/1062810/35
-JavaScript Deobfuscation: https://academy.hackthebox.com/achievement/1062810/41
-Getting Started: https://academy.hackthebox.com/achievement/1062810/77
-Network Enumeration with Nmap: https://academy.hackthebox.com/achievement/1062810/19
